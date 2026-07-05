@@ -1,2 +1,3 @@
 # first-repo
-this is my first repository
+this is my Github first repository
+Author-Ayushi Soni
